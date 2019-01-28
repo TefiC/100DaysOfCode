@@ -20,3 +20,9 @@
   - Started the applied accessibility section on FreeCodeCamp.
   
   **Thoughts**: I really like FreeCodeCamp's curriculum, and I'm very excited to start working on the projects. The last few days I worked on answering questions on MITx 6.00.1x's discussion forums (the new session just started) and I solved a few HackerRank challenges. (I'm loving HackerRank).
+
+### Day 4 - January 27th, 2019.
+  - Completed the Applied Accesibility module on FreeCodeCamp.
+  - Completed the Responsive Web Design Principles module on FreeCodeCamp.
+  
+  **Thoughts**: I really liked these modules. I'm looking forward to implement accessibility features into my web apps. Term 3 at UoPeople starts this thursday 31st, and I'm really looking forward to take Programming Fundamentals. 
