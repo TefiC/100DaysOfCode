@@ -26,3 +26,15 @@
   - Completed the Responsive Web Design Principles module on FreeCodeCamp.
   
   **Thoughts**: I really liked these modules. I'm looking forward to implement accessibility features into my web apps. Term 3 at UoPeople starts this thursday 31st, and I'm really looking forward to take Programming Fundamentals. 
+  
+### Day 5 - January 28th, 2019.
+  - Completed the CSS grid module on FreeCodeCamp.
+  - Started working on an article for the FreeCodeCamp publication on arrays.
+  
+  **Thoughts**: CSS grid is awesome! I previously worked with Flexbox, so I'm looking forward to apply this new knowledge to my projects.
+  
+### Day 6 - January 29th, 2019.
+  - Started working on my first FreeCodeCamp project, the Tribute Page.
+  
+  **Thoughts**: I chose to feature Rafael Reif, president of MIT for my project.
+  
